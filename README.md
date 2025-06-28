@@ -1,5 +1,8 @@
 # HospitalManagement-System
+
 Group Project for creating Hospital Management System.
+
+
 ![image](https://github.com/user-attachments/assets/c4178b6c-bec6-4e39-9730-937baaa0edca)
 
 ![image](https://github.com/user-attachments/assets/f50ef0a5-34f2-4484-be5a-3b0a12b3c05e)
